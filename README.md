@@ -42,3 +42,7 @@ This is the log of work done in HackerRank
 Here are the flashcards I have made so far, sourced from a number of different resources online and the Epicodus curriculum:
 
 https://docs.google.com/document/d/1DyPtRp4lkpAOu9ekQIBe5Lepa8uxEq98Dtc6LcwW7yw/edit?usp=sharing
+
+## Further Learning.
+
+It's really hard for me to prioritize what I should focus on learning first because there's just SO much out there to learn. I definitely need to keep working with HackerRank and improve my algorithmic skills to be better prepared for whiteboarding. I'll also keep updating my flashcards so that they're up to date with new concepts we're learning in class. I'm also planning on honing my database skills, both SQL and NoSQL. I'm close to being finished with my AWS certification training and I would like to jump into Salesforce training/certifications after that. A lot to learn still...
