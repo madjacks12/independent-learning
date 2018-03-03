@@ -32,11 +32,11 @@ This is the log of work done in HackerRank
 
   8. Solved the "Plus Minus" Challenge. This one was easy but I had weird syntax errors that kept me from passing. I had to find what percentage of positve numbers, negative numbers and 0s an array contained. I figured the logic out very quickly, but I kept having problem printing out multiple variables using the System.Out.println command. I had to use 3 seperate println commands to pass this one.
   9. Solved the "Staircase" challenge. This one really tripped me up but and I had to find someone else's working code to work off of. This was essentially a matrix challenge where I had to print out a staircase using spaces and #'s of a given length. Which would look like:
-      #
+  "   #
      ##
     ###
    ####
-  #####
+  #####""
 
   I was only thinking about the number of rows in a staircase, but really I had to create a nested for loop that would cycle through each column of the staircase and decipher which value to input at each step, a " " or a "#".
 
