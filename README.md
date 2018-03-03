@@ -40,7 +40,7 @@ This is the log of work done in HackerRank
 
   I was only thinking about the number of rows in a staircase, but really I had to create a nested for loop that would cycle through each column of the staircase and decipher which value to input at each step, a " " or a "#".
 
-  ![alt text](hackerShot.png "HackRank Screenshot showing score of 61")
+  ![alt text](hackerShot.jpg "HackRank Screenshot showing score of 61")
 
 ## Flashcards.
 Here are the flashcards I have made so far, sourced from a number of different resources online and the Epicodus curriculum:
