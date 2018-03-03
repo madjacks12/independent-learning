@@ -31,12 +31,8 @@ This is the log of work done in HackerRank
   I had to go through a lot of different tutorials until I finally found a video that explained it to me in a way that made sense. for each row, the corresponding column would be the number of rows in the matrix, subtracted by 1 (since the array starts at 0), subtracted by the column index.
 
   8. Solved the "Plus Minus" Challenge. This one was easy but I had weird syntax errors that kept me from passing. I had to find what percentage of positve numbers, negative numbers and 0s an array contained. I figured the logic out very quickly, but I kept having problem printing out multiple variables using the System.Out.println command. I had to use 3 seperate println commands to pass this one.
-  9. Solved the "Staircase" challenge. This one really tripped me up but and I had to find someone else's working code to work off of. This was essentially a matrix challenge where I had to print out a staircase using spaces and #'s of a given length. Which would look like:
-  "   #
-     ##
-    ###
-   ####
-  #####""
+  9. Solved the "Staircase" challenge. This one really tripped me up but and I had to find someone else's working code to work off of. This was essentially a matrix challenge where I had to print out a staircase using spaces and #'s of a given length.
+
 
   I was only thinking about the number of rows in a staircase, but really I had to create a nested for loop that would cycle through each column of the staircase and decipher which value to input at each step, a " " or a "#".
 
